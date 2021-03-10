@@ -1,0 +1,14 @@
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\bin\Debug\NoahWilson_GOL.exe.config
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\bin\Debug\NoahWilson_GOL.exe
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\bin\Debug\NoahWilson_GOL.pdb
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\obj\Debug\NoahWilson_GOL.csprojAssemblyReference.cache
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\obj\Debug\NoahWilson_GOL.Form1.resources
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\obj\Debug\NoahWilson_GOL.Properties.Resources.resources
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\obj\Debug\NoahWilson_GOL.csproj.GenerateResource.cache
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\obj\Debug\NoahWilson_GOL.csproj.CoreCompileInputs.cache
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\obj\Debug\NoahWilson_GOL.exe
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\obj\Debug\NoahWilson_GOL.pdb
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\obj\Debug\NoahWilson_GOL.TimerDialog.resources
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\obj\Debug\NoahWilson_GOL.UniverseDialog.resources
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\obj\Debug\NoahWilson_GOL.UniverseTypeDialog.resources
+C:\Users\noah\source\repos\NoahWilson_GOL\NoahWilson_GOL\obj\Debug\NoahWilson_GOL.RandomizeDialog.resources
